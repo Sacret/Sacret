@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Sacret/Sacret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi everyone! 👋
+
+I'm a Frontend Web Developer from a small town (Novocherkassk)
+* work: [Rambler](https://ramblergroup.com/)
+* technologies: JavaScript, React, SCSS
+* pet-projects: [githubify](https://github.com/Sacret/githubify), [elaborate-lastfm-charts](https://github.com/Perlence/elaborate-lastfm-charts)
+* personal site: [sacret.ru](https://sacret.ru/)
+* twitter: [sacret19](https://twitter.com/Sacret19)
+* hobbies: drawing, reading books
