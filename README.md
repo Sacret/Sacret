@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 ### Hi everyone! 👋
 
 I'm a Frontend Web Developer from a small town (Novocherkassk)
-* work: [Rambler](https://ramblergroup.com/)
 * technologies: JavaScript, React, SCSS
 * pet-projects: [githubify](https://github.com/Sacret/githubify), [elaborate-lastfm-charts](https://github.com/Perlence/elaborate-lastfm-charts)
 * personal site: [sacret.ru](https://sacret.ru/)
