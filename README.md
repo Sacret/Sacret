@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm a Frontend Web Developer from a small town (Novocherkassk)
 * technologies: JavaScript, React, SCSS
-* pet-projects: [githubify](https://github.com/Sacret/githubify), [elaborate-lastfm-charts](https://github.com/Perlence/elaborate-lastfm-charts), [game](https://sacret.github.io/game/), [family-tree](https://family.sacret.ru)
+* pet-projects: [githubify](https://github.com/Sacret/githubify), [elaborate-lastfm-charts](https://github.com/Perlence/elaborate-lastfm-charts), [game](https://sacret.github.io/game/), [family-tree](https://family.sacret.ru), [genealogy](https://sacret.github.io/genealogy/)
 * personal site: [sacret.ru](https://sacret.ru/)
 * twitter: [sacret19](https://twitter.com/Sacret19)
 * hobbies: drawing, reading books
